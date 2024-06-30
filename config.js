@@ -10,7 +10,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915'], ['51948705559']]
+global.owner = [['917439317360', '𝗔𝗗𝗥𝗜𝗘𝗡', true], ['593968585383'], ['5492266466080'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915'], ['51948705559']]
 global.mods = [] 
 global.prems = []
 
@@ -23,7 +23,7 @@ global.confirmCode = ""
 //es = Español         id = Bahasa Indonesia
 //en = English         pt = Português
 //ar = عرب 
-global.lenguajeGB = es  
+global.lenguajeGB = en 
 
 //---------[ APIS GLOBAL ]---------
 
@@ -74,26 +74,18 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = '𝗠𝗮𝗱𝗲 𝗯𝘆'
+global.author = '𝆺𝅥 𝇁 ֹ  𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃〄'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
 global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
 global.vs = '1.6.5'
 global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
 global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //enlace lolibot
+
 global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
 global.bot = 'Wa.me/573147616444'
 global.asistencia = `${fb}`
